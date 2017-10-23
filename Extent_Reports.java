@@ -37,9 +37,6 @@ public class Extent_Reports
 		// To save the result
 		er.flush();
 		
-		//To display result automatically
-		driver.get("file:///E:\\Neon_Projects\\ExtentReport.html");
-		
 		
 	}
 	
